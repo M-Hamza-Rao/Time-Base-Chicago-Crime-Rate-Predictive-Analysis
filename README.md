@@ -1,4 +1,4 @@
-# CHICAGO CRIME RATE DATA ANALYSIS
+# CHICAGO CRIME RATE DATA PREDICTIVE ANALYSIS
 Crime Rate Analysis:
 Data: https://www.kaggle.com/datasets/chicago/chicago-crime
 
