@@ -1,5 +1,5 @@
 # CHICAGO CRIME RATE DATA PREDICTIVE ANALYSIS
-Data Link: https://www.kaggle.com/datasets/chicago/chicago-crime
+Link: https://www.kaggle.com/datasets/chicago/chicago-crime
 
 Data Cleaning & Preparation:
 -Load the dataset into Pandas and inspect it for missing values, incorrect data types, or irrelevant columns.
