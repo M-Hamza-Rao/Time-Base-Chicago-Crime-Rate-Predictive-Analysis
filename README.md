@@ -12,7 +12,7 @@ Data Visualization:
 -Crime Trend Over Time → Create a line chart showing the number of crimes per year/month.
 -Geospatial Analysis (Heatmap) → Use Folium to create a heatmap of crime locations to identify hotspots.
 
-Identifying Relationships:
+Identifying Relationships:-
 -Crime by Time of Day → Find if crimes peak during specific hours (e.g., night vs. day).
 -Crime by Location → Analyze the most common locations where crimes occur (e.g., streets, parks, stations).
 -Correlation Analysis → Use correlation heatmaps to see if there are patterns between crime type, time, and location.
